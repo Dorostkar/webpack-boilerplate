@@ -1,5 +1,5 @@
-#React-Webpack simple configuration
-##What I have done:
+# React-Webpack simple configuration
+## What I have done:
 
 - npm init
 - npm install webpack
