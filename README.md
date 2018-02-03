@@ -4,7 +4,6 @@
 - npm init
 - npm install webpack
 - create webpack.config.js in the root folder of the project
--  bayad bedunim entry kodume
 - create a src folder inside the root folder
 -  create app.js file inside the src folder, this file actually is the entry of the project.
 - create another folder which is public in the root of the project
